@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @RK1B0D<br>👀 I’m interested in Defensive Cyber Security and Python.<br>🌱 I’m currently learning Python and Networking.
+👋 Hi, I’m @RK1B0D<br>👀 I’m interested in Defensive Cyber Security.<br>🌱 I’m currently learning Python & Web Development.
 
 
 ## 🌐 Socials:
